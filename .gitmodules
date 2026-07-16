@@ -1,0 +1,40 @@
+[submodule "codeck"]
+	path = codeck
+	url = https://github.com/pku-zhb/codeck.git
+	branch = main
+[submodule "obsidian/packages/codemirror-enhance"]
+	path = obsidian/packages/codemirror-enhance
+	url = https://github.com/pku-zhb/codemirror-enhance.git
+	branch = main
+[submodule "obsidian/packages/mermaid-enhance"]
+	path = obsidian/packages/mermaid-enhance
+	url = https://github.com/pku-zhb/mermaid-enhance.git
+	branch = main
+[submodule "obsidian/packages/obsidian-file-cleaner-redux"]
+	path = obsidian/packages/obsidian-file-cleaner-redux
+	url = https://github.com/pku-zhb/obsidian-file-cleaner-redux.git
+	branch = main
+[submodule "obsidian/packages/hi-note"]
+	path = obsidian/packages/hi-note
+	url = https://github.com/pku-zhb/hi-note.git
+	branch = custom/minimal
+[submodule "obsidian/packages/obsidian-quiet-outline"]
+	path = obsidian/packages/obsidian-quiet-outline
+	url = https://github.com/pku-zhb/obsidian-quiet-outline.git
+	branch = master
+[submodule "obsidian/packages/obsidian-chartsview-plugin"]
+	path = obsidian/packages/obsidian-chartsview-plugin
+	url = https://github.com/pku-zhb/obsidian-chartsview-plugin.git
+	branch = master
+[submodule "obsidian/packages/phycat"]
+	path = obsidian/packages/phycat
+	url = https://github.com/pku-zhb/obsidian-theme-phycat.git
+	branch = refactor/color-system
+[submodule "obsidian/packages/table-enhance"]
+	path = obsidian/packages/table-enhance
+	url = https://github.com/pku-zhb/table-enhance.git
+	branch = main
+[submodule "obsidian/packages/termy"]
+	path = obsidian/packages/termy
+	url = https://github.com/pku-zhb/Termy.git
+	branch = master
