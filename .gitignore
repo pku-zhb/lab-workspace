@@ -7,6 +7,8 @@
 !/scripts/sync.sh
 
 !/codeck
+!/claude3
+!/codex-research-mcp
 !/obsidian/
 !/obsidian/packages/
 !/obsidian/packages/codemirror-enhance

@@ -38,3 +38,11 @@
 	path = obsidian/packages/termy
 	url = https://github.com/pku-zhb/Termy.git
 	branch = master
+[submodule "codex-research-mcp"]
+	path = codex-research-mcp
+	url = https://github.com/pku-zhb/codex-research-mcp.git
+	branch = main
+[submodule "claude3"]
+	path = claude3
+	url = https://github.com/pku-zhb/claude3.git
+	branch = main
